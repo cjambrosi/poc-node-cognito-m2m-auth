@@ -90,6 +90,8 @@ List Products:
 
 [AWS Cognito Node.JS](https://onexlab-io.medium.com/aws-cognito-node-js-cc05760b61c3)
 
+[Cognito-Express: API Authentication with AWS Congito](https://github.com/ghdna/cognito-express)
+
 [Video - Configurando Autenticação com o Amazon Cognito](https://www.youtube.com/watch?v=A8Naua_2PMA)
 
 [Video - Implementando Autenticação e Autorização em APIs na AWS | Cognito + OAuth2](https://www.youtube.com/watch?v=OgBZLGTpS5I)
