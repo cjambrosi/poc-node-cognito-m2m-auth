@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "rootDir": "./src",
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "resolveJsonModule": true,
+    "outDir": "./build",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "strictPropertyInitialization": false,
+    "skipLibCheck": true,
+    "paths": {
+      "/*": ["./*"]
+    }
+  },
+  "include": ["**/*.ts", "**/*.d.ts"],
+  "exclude": ["node_modules", "build"]
+}
